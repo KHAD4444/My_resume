@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+
+div {
+ background-color: #121212;
+ padding: 10px;
+ border-radius: 20px;
+}
+
+h1, h3 {
+ color: #e50914;
+}
+
+img {
+ width: 300px;
+ height: 600px;
+ margin: 5px;
+ border-radius: 20px;
+}
+
+a {
+ color: red;
+ display: inline-block;
+ text-decoration: none;
+ margin: 30px;
+} 

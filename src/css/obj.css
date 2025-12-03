@@ -1,0 +1,29 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+
+h1 { 
+ color: #e50914;
+}
+
+.bod {
+  background-color: #121212;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  color: white;
+}
+
+a {
+ color: red;
+ display: inline-block;
+ text-decoration: none;
+ margin: 30px;
+} 
