@@ -8,7 +8,7 @@ body {
  color: white;
 }
 
-h1 { 
+h1, h3{ 
  color: #e50914;
 }
 
@@ -27,3 +27,7 @@ a {
  text-decoration: none;
  margin: 30px;
 } 
+
+span {
+ color: purple;
+}

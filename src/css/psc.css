@@ -12,10 +12,11 @@ div {
  background-color: #121212;
  padding: 10px;
  border-radius: 20px;
+ border: solid 1px #00BFFF;
 }
 
 h1, h3 {
- color: #e50914;
+ color: #00BFFF ;
 }
 
 img {
@@ -26,7 +27,7 @@ img {
 }
 
 a {
- color: red;
+ color: #00BFFF;
  display: inline-block;
  text-decoration: none;
  margin: 30px;
