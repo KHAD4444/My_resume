@@ -15,8 +15,8 @@ h1 {
  padding: 10px;
  margin-left: 60px;
  margin-right: 60px;
- margin-botton: 40px;
- margin-top: 20px;
+ margin-botton: 50px;
+ margin-top: 30px;
  font-size: 35px;
  border-radius: 20px 0 20px 0;
 }
@@ -35,7 +35,7 @@ h1 {
 }
 
 .bt {
- margin: 3px;
+ margin: 5px;
  padding: 10px;
  background-color: #121212;
  border-radius: 20px 0 20px 20px;
@@ -55,4 +55,14 @@ a {
  text-decoration: none;
  margin: 30px;
 } 
- 
+
+img {
+ width: 200px;
+ height: 200px;
+ border-radius: 200px;
+ margin: 5px;
+}
+
+span {
+ color: #e50914;
+}
